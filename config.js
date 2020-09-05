@@ -10,7 +10,7 @@ const config = {
       "https://catherinepollock.com/img/initials-logo.svg",
     logoLink: "https://catherinepollock.com",
     title:
-      "<a href='https://cookwithcat.netlify.app'>Cook with Cat (^..^)ﾉ</a>",
+      "<a href='https://cookwithcat.catherinepollock.com/'>Cook with Cat (^..^)ﾉ</a>",
     githubUrl: "https://github.com/PollockCR/cookwithcat",
     helpUrl: "",
     tweetText: "",
