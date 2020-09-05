@@ -43,7 +43,7 @@ const config = {
     description: "Recipes loved by Catherine Pollock, professional web developer and amateur chef.",
     ogImage: null,
     docsLocation:
-      "https://github.com/PollockCR/cookwithcat/tree/master/content",
+      "https://github.com/PollockCR/cookwithcat/tree/main/content",
     favicon: "https://catherinepollock.com/img/initials-logo.svg",
   },
   pwa: {
