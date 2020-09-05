@@ -1,4 +1,5 @@
-require("dotenv").config();
+require("dotenv").config()
+
 const queries = require("./src/utils/algolia");
 
 const config = require("./config");

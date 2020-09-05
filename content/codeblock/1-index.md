@@ -1,26 +1,5 @@
 ---
-title: "Sub Page"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Welcome =^._.^= ∫"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
-
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Greetings! My name is Catherine Pollock but my friends call me Cat 🐈&nbsp;. I am a professional web developer 💻 &nbsp;and amateur chef 👩🏽‍🍳&nbsp;. I specialize in vegan Asian fusion 🌱🍜&nbsp; and like my food SPICY 🌶️&nbsp;. I enjoy using ingredients from all over the world 🗺️&nbsp; to create new dishes 💡&nbsp;. Here you will find my favorite recipes ❤️&nbsp;.
