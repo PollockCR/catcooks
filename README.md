@@ -1,40 +1,18 @@
-# gatsby-gitbook-starter
+# Cook with Cat
 
-Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
+## Introduction
 
-![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
-
-## Motivation
-
-We wanted to create a [GraphQL tutorial](https://learn.hasura.io) series. The content would be written by developers for various languages/frameworks and what better than writing it in Markdown! And since this is a tutorial series we also needed rich embeds, syntax highlighting and more customisations.
-
-We also wanted to serve these tutorials in sub paths of [learn.hasura.io](https://learn.hasura.io). To serve all these requirements, we decided to use Gatsby + MDX (Markdown + JSX) to extend markdown and used a neat consistent theme like the one at [GitBook](https://www.gitbook.com) and deployed as docker containers.
-
-## 🔥 Features
-- Write using Markdown / [MDX](https://github.com/mdx-js/mdx)
-- GitBook style theme
-- Syntax Highlighting using Prism [`Bonus`: Code diff highlighting]
-- Search Integration with Algolia
-- Progressive Web App, Works Offline
-- Google Analytics Integration
-- Automatically generated sidebar navigation, table of contents, previous/next
-- Dark Mode toggle
-- Edit on Github
-- Fully customisable
-- Rich embeds and live code editor using MDX
-- Easy deployment: Deploy on Netlify / Now.sh / Docker
-
-## 🔗 Live Demo
-
-Here's a [live demo](https://learn.hasura.io/graphql/react)
+Greetings! My name is Catherine Pollock but my friends call me Cat 🐈. I am a professional web developer 💻 and amateur chef 👩🏽‍🍳. I specialize in vegan Asian fusion 🌱🍜 and like my food SPICY 🌶️. I enjoy using ingredients from all over the world 🗺️ to create new dishes 💡. Here you will find my favorite recipes ❤️
 
 ## 🚀 Quickstart
 
-Get started by running the following commands:
+You must have [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed.
+
+Get started by running the following commands in a terminal:
 
 ```
-$ git clone git@github.com:hasura/gatsby-gitbook-starter.git
-$ cd gatsby-gitbook-starter
+$ git clone git@github.com:PollockCR/cookwithcat
+$ cd cookwithcat
 $ npm install
 $ npm start
 ```
@@ -98,11 +76,11 @@ To enable PWA, go to `config.js` and update the `pwa` object to look like the on
    "pwa": {
         "enabled": false, // disabling this will also remove the existing service worker.
         "manifest": {
-            "name": "Gatsby Gitbook Starter",
-            "short_name": "GitbookStarter",
+            "name": "Cook with Cat | Catherine Pollock",
+            "short_name": "Cook with Cat",
             "start_url": "/",
-            "background_color": "#6b37bf",
-            "theme_color": "#6b37bf",
+            "background_color": "#3C5D62",
+            "theme_color": "#3C5D62",
             "display": "standalone",
             "crossOrigin": "use-credentials",
             icons: [
@@ -115,16 +93,6 @@ To enable PWA, go to `config.js` and update the `pwa` object to look like the on
         },
     }
 ```
-
-## Live Code Editor
-
-To render react components for live editing, add the `react-live=true` to the code section. For example:
-
-```javascript react-live=true
-<button>Edit my text</button>
-```
-
-In the above code, just add `javascript react-live=true` after the triple quote ``` to start rendering react components that can be edited by users.
 
 ## 🤖 SEO friendly
 
@@ -142,5 +110,5 @@ Canonical URLs are generated automatically.
 
 ## ☁️ Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hasura/gatsby-gitbook-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/PollockCR/cookwithcat)
 
